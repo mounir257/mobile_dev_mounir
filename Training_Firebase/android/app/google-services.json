@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238111947770",
+    "project_id": "training-firebase-mounir",
+    "storage_bucket": "training-firebase-mounir.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238111947770:android:8d9f8030c01415c9f70243",
+        "android_client_info": {
+          "package_name": "com.example.training_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8KtDVdimwWHKLC-vwSfrPWg7lLC_awLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
